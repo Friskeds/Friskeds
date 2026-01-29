@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a developer who loves **planning before building**. My workflow revolves around creating detailed "blueprints" — folder structures, component hierarchies, and design systems — before writing a single line of code. This habit helps me build software that is **scalable**, **clean**, and **maintainable**.
+I architect scalable solutions with a focus on meticulous planning and clean design principles. From blueprints to production, I ensure every line counts.
 
 - 🔭 I’m currently working on a **Real Estate/Portfolio Blueprint**.
 - 🌱 I’m currently learning **TypeScript**, **Next.js**, and **System Design**.
@@ -60,12 +60,14 @@ I designed a complete **project blueprint** demonstrating my organizational skil
 ## � GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Friskeds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Friskeds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Languages" width="48%" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Friskeds&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" width="97%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Friskeds&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </div>
