@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm Jetrix Audrey C. Siason! 👋</h1>
+  <h1 align="center">👋</h1>
   <h3 align="center">Aspiring Full-Stack Developer | Architecting Scalable Solutions</h3>
 
   ---
